@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581046539533",
+    "firebase_url": "https://barkode-e0f47-default-rtdb.firebaseio.com",
+    "project_id": "barkode-e0f47",
+    "storage_bucket": "barkode-e0f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581046539533:android:522353b48c076ddf808c44",
+        "android_client_info": {
+          "package_name": "com.example.barkodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581046539533-bbsv6l64gm5fjr6j24qlqg5o2qe4gad2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPd2ookhN5nPQmWVg6Rbrp2-k0Ei9enV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581046539533-bbsv6l64gm5fjr6j24qlqg5o2qe4gad2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
