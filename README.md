@@ -1,10 +1,9 @@
-# Barkode
+# Barkode 2.0
 BMEG 357 Design Project
 
 
 ![Uploading image.png…](barkode.png)
-### Creators    
-Hayley Moss, Eunice Nwaobi, Justin Cho, Shealie Lock, Ayush Bansal  
+
 ## What is it?   
 Barkode is a venilator tracking solution that makes use of bardcodes and mobile scanning to automatically track the movement of ventilator units in the hospital. 
 
