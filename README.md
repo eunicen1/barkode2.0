@@ -1,5 +1,5 @@
 # Barkode 2.0
-BMEG 357 Design Project
+Surrey Memorial Hospital Ventilator Design Project (BME357)
 
 
 ![Uploading image.png…](barkode.png)
