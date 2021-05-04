@@ -8,3 +8,4 @@ Surrey Memorial Hospital Ventilator Design Project (BME357)
 Barkode is a venilator tracking solution that makes use of bardcodes and mobile scanning to automatically track the movement of ventilator units in the hospital. 
 
 The project was commissioned by the Surrey Memorial team in search of reducing the workload of Respiratory Therapists, who perform manual duties of ventilatory tracking every morning.
+ 
